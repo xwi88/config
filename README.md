@@ -2,7 +2,7 @@
 
 ## support
 
-support format: toml, ymal, json, ini, properties and so on
+support files with extension: json, toml, yaml, yml, properties, props, prop, hcl.
 
 ## usage
 
